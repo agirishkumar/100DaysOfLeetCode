@@ -1,0 +1,11 @@
+G:\100DaysOfLeetCode\bin\Debug\netcoreapp3.1\100DaysOfLeetCode.exe
+G:\100DaysOfLeetCode\bin\Debug\netcoreapp3.1\100DaysOfLeetCode.deps.json
+G:\100DaysOfLeetCode\bin\Debug\netcoreapp3.1\100DaysOfLeetCode.runtimeconfig.json
+G:\100DaysOfLeetCode\bin\Debug\netcoreapp3.1\100DaysOfLeetCode.runtimeconfig.dev.json
+G:\100DaysOfLeetCode\bin\Debug\netcoreapp3.1\100DaysOfLeetCode.dll
+G:\100DaysOfLeetCode\bin\Debug\netcoreapp3.1\100DaysOfLeetCode.pdb
+G:\100DaysOfLeetCode\obj\Debug\netcoreapp3.1\100DaysOfLeetCode.csprojAssemblyReference.cache
+G:\100DaysOfLeetCode\obj\Debug\netcoreapp3.1\100DaysOfLeetCode.AssemblyInfoInputs.cache
+G:\100DaysOfLeetCode\obj\Debug\netcoreapp3.1\100DaysOfLeetCode.AssemblyInfo.cs
+G:\100DaysOfLeetCode\obj\Debug\netcoreapp3.1\100DaysOfLeetCode.dll
+G:\100DaysOfLeetCode\obj\Debug\netcoreapp3.1\100DaysOfLeetCode.pdb
